@@ -27,11 +27,14 @@ Currently, I continue improving my skills by developing projects that simulate r
 * HTML
 * CSS
 * JavaScript
+* TypeScript
+* Bootstrap
 * Angular
 
 **Tools & Platforms**
 
 * Firebase
+* Supabase
 * Git & GitHub
 * Vercel
 
@@ -69,6 +72,7 @@ E-commerce simulation with shopping cart, login system, and responsive design.
 
 * GitHub: [https://github.com/ivan2899](https://github.com/ivan2899)
 * LinkedIn: [https://linkedin.com/in/ivan-cordoba-90b499253](https://linkedin.com/in/ivan-cordoba-90b499253)
+* Portfolio: [https://portfolio-nu-one-nnnc3y3ixn.vercel.app/](https://portfolio-nu-one-nnnc3y3ixn.vercel.app/)
 * Email: [ivan.cordoba2002@gmail.com](mailto:ivan.cordoba2002@gmail.com)
 
 ---
